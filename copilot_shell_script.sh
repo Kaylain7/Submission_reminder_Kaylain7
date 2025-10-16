@@ -1,8 +1,8 @@
 #!/bin/bash
 
-parent="submission_remainder_*/"
+parent="submission_reminder_*/"
 star="startup.sh"
-config="./submission_remainder_*/config/config.env"
+config="./submission_reminder_*/config/config.env"
 continuation="y"
 assignment_name="" # Initialize the variable to hold the user's input
 

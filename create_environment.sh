@@ -5,7 +5,7 @@
 read -p "Enter your name: " yourname
 #make the directory called submission_remainder_{yourname} as well as the subdirectories with their contents
 
-parent_dir="submission_remainder_${yourname}"
+parent_dir="submission_reminder_${yourname}"
 mkdir -p "$parent_dir"
 
 #create subdirectories
